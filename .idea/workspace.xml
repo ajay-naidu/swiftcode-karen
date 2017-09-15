@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="697bb712-b70d-4586-abdd-4af432c5a2d2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/FeedResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/message.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/services/FeedService.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/services/AgentService.java" afterPath="$PROJECT_DIR$/app/services/AgentService.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
