@@ -1,6 +1,6 @@
 package data;
 
-public class message {
+public class Message {
     public String text;
     public FeedResponse feedResponse;
     public Sender sender;
